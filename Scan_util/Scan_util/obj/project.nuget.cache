@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6+hJesbIJVcnAIAWjxf6FqcpJ2kfP+V1Mx/rGq/Ik3kwSREjnH/kMOkdTXHQntDb78UzekbSt9sxzErabg8+w==",
+  "dgSpecHash": "0PVRr1k6bzTcVfU7fVKcnymcYzQBO21k2dLXnkSssGo2/gTp143IXv5Ikcb7dxYANHmfSPcnTS/7PgcniOuAgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Scan_util\\Scan_util\\Scan_util.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Scan_service+util\\Scan_util\\Scan_util\\Scan_util.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
